@@ -142,6 +142,7 @@ def post_to_bluesky(entry, feed_name, feed_url, last_posted_ids):
         "PCI Animal Science": "pci-animsci.bsky.social",
         "Arcadia Science": "arcadiascience.bsky.social",
         "preLights": "prelights.bsky.social",
+        "Review Commons":"reviewcommons.org",
     }
     
     mention_handle = mentions.get(feed_name, feed_name)
