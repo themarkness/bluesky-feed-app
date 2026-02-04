@@ -1,0 +1,4 @@
+atproto
+feedparser
+python-dotenv
+requests
